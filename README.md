@@ -7,6 +7,7 @@
 - HTML
 - [Three.js](https://threejs.org/)
 - [Tween.js](https://github.com/tweenjs/tween.js/)
+- Vite
 
 ## Status of Project
 
