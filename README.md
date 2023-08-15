@@ -36,5 +36,5 @@ The project is built primarily using TypeScript, CSS, and HTML. TypeScript ensur
 Three.js is the backbone of the project, enabling the creation of the 3D scene, rendering the car model, and handling user interactions. Tween.js is employed to manage smooth animations, ensuring that transitions are visually pleasing and enhance the overall user experience.
 
 ### Note
-This website may not work very well on mobile and low-end devices.
+This website may not work very well on mobile and low-end devices, the purpose of this website is to demonstrate skills in Three.JS Framework
 
