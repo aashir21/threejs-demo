@@ -112,7 +112,7 @@ renderer2.toneMappingExposure = 4;
 
 let car: any;
 
-rgbeloader.load('static/MR_INT-005_WhiteNeons_NAD.hdr',function(texture){
+rgbeloader.load('static/poly_haven_studio_2k.hdr',function(texture){
   texture.mapping = THREE.EquirectangularReflectionMapping
   scene.environment = texture;
   scene2.environment = texture
